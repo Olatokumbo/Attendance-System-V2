@@ -188,7 +188,9 @@ const Home = () => {
           <ul className="w-full h-96 bg-gray-800 p-6 mt-2 rounded-2xl overflow-auto">
             {list.map((listItem, index) => (
               <li key={index} className="w-full py-1 flex justify-between">
-                <h1 className="text-yellow-500 font-bold text-md">{index}</h1>
+                <h1 className="text-yellow-500 font-bold text-md">
+                  {index + 1}
+                </h1>
                 <h1 className="text-white w-32">{`${listItem.firstName} ${listItem.lastName}`}</h1>
               </li>
             ))}

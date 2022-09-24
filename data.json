@@ -1,118 +1,14 @@
 [
   {
-    "firstName": "Mark",
-    "lastName": "Baker",
-    "phoneNumber": "+12345678",
-    "gender": "male"
-  },
-  {
-    "firstName": "Matthew",
-    "lastName": "King",
-    "phoneNumber": "+1234567890",
-    "gender": "male"
-  },
-  {
     "firstName": "John",
     "lastName": "Doe",
     "phoneNumber": "+123456789",
     "gender": "male"
   },
   {
-    "firstName": "Rebecca",
-    "lastName": "Wilson",
-    "phoneNumber": "+123456789098765",
-    "gender": "female"
-  },  {
-    "firstName": "Mark",
-    "lastName": "Baker",
-    "phoneNumber": "+12345678",
-    "gender": "male"
-  },
-  {
-    "firstName": "Matthew",
+    "firstName": "David",
     "lastName": "King",
-    "phoneNumber": "+1234567890",
+    "phoneNumber": "+3245678",
     "gender": "male"
-  },
-  {
-    "firstName": "John",
-    "lastName": "Doe",
-    "phoneNumber": "+123456789",
-    "gender": "male"
-  },
-  {
-    "firstName": "Rebecca",
-    "lastName": "Wilson",
-    "phoneNumber": "+123456789098765",
-    "gender": "female"
-  },  {
-    "firstName": "Mark",
-    "lastName": "Baker",
-    "phoneNumber": "+12345678",
-    "gender": "male"
-  },
-  {
-    "firstName": "Matthew",
-    "lastName": "King",
-    "phoneNumber": "+1234567890",
-    "gender": "male"
-  },
-  {
-    "firstName": "John",
-    "lastName": "Doe",
-    "phoneNumber": "+123456789",
-    "gender": "male"
-  },
-  {
-    "firstName": "Rebecca",
-    "lastName": "Wilson",
-    "phoneNumber": "+123456789098765",
-    "gender": "female"
-  },  {
-    "firstName": "Mark",
-    "lastName": "Baker",
-    "phoneNumber": "+12345678",
-    "gender": "male"
-  },
-  {
-    "firstName": "Matthew",
-    "lastName": "King",
-    "phoneNumber": "+1234567890",
-    "gender": "male"
-  },
-  {
-    "firstName": "John",
-    "lastName": "Doe",
-    "phoneNumber": "+123456789",
-    "gender": "male"
-  },
-  {
-    "firstName": "Rebecca",
-    "lastName": "Wilson",
-    "phoneNumber": "+123456789098765",
-    "gender": "female"
-  },  {
-    "firstName": "Mark",
-    "lastName": "Baker",
-    "phoneNumber": "+12345678",
-    "gender": "male"
-  },
-  {
-    "firstName": "Matthew",
-    "lastName": "King",
-    "phoneNumber": "+1234567890",
-    "gender": "male"
-  },
-  {
-    "firstName": "John",
-    "lastName": "Doe",
-    "phoneNumber": "+123456789",
-    "gender": "male"
-  },
-  {
-    "firstName": "Rebecca",
-    "lastName": "Wilson",
-    "phoneNumber": "+123456789098765",
-    "gender": "female"
   }
 ]
